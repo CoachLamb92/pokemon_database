@@ -28,5 +28,5 @@ for move in poke001["moves"]:
                                           'move_learn_method': vg['move_learn_method']['name'],
                                           'move_id': move["move"]["url"].split('/')[-2]})
 
-      
-pprint(this_pokemon)
+pokemon_list = [this_pokemon]
+pprint(pokemon_list)
