@@ -1,0 +1,271 @@
+[
+    {
+        "base_experience": 173,
+        "pokemon_id": 139,
+        "name": "omastar",
+        "hp": 70,
+        "attack": 60,
+        "defense": 125,
+        "special-attack": 115,
+        "special-defense": 70,
+        "speed": 55,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "moves": [
+            {
+                "name": "body-slam",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "34"
+            },
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "38"
+            },
+            {
+                "name": "leer",
+                "level_learned_at": 31,
+                "move_learn_method": "level-up",
+                "move_id": "43"
+            },
+            {
+                "name": "bite",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "44"
+            },
+            {
+                "name": "bite",
+                "level_learned_at": 13,
+                "move_learn_method": "level-up",
+                "move_id": "44"
+            },
+            {
+                "name": "water-gun",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "55"
+            },
+            {
+                "name": "water-gun",
+                "level_learned_at": 19,
+                "move_learn_method": "level-up",
+                "move_id": "55"
+            },
+            {
+                "name": "hydro-pump",
+                "level_learned_at": 65,
+                "move_learn_method": "level-up",
+                "move_id": "56"
+            },
+            {
+                "name": "surf",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "57"
+            },
+            {
+                "name": "ice-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "58"
+            },
+            {
+                "name": "blizzard",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "59"
+            },
+            {
+                "name": "hyper-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "63"
+            },
+            {
+                "name": "seismic-toss",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "69"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "withdraw",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "110"
+            },
+            {
+                "name": "waterfall",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "127"
+            },
+            {
+                "name": "spike-cannon",
+                "level_learned_at": 40,
+                "move_learn_method": "level-up",
+                "move_id": "131"
+            },
+            {
+                "name": "constrict",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "132"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "rock-slide",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "157"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "thief",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "168"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 37,
+                "move_learn_method": "level-up",
+                "move_id": "182"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "sandstorm",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "201"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "240"
+            },
+            {
+                "name": "ancient-power",
+                "level_learned_at": 55,
+                "move_learn_method": "level-up",
+                "move_id": "246"
+            },
+            {
+                "name": "rock-smash",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "249"
+            },
+            {
+                "name": "hail",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "258"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "dive",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "291"
+            },
+            {
+                "name": "rock-tomb",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "317"
+            },
+            {
+                "name": "tickle",
+                "level_learned_at": 46,
+                "move_learn_method": "level-up",
+                "move_id": "321"
+            },
+            {
+                "name": "mud-shot",
+                "level_learned_at": 25,
+                "move_learn_method": "level-up",
+                "move_id": "341"
+            },
+            {
+                "name": "water-pulse",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "352"
+            }
+        ]
+    }
+]

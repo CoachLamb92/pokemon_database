@@ -1,0 +1,30 @@
+[
+    {
+        "base_experience": 72,
+        "pokemon_id": 11,
+        "name": "metapod",
+        "hp": 50,
+        "attack": 20,
+        "defense": 55,
+        "special-attack": 25,
+        "special-defense": 25,
+        "speed": 30,
+        "types": [
+            "bug"
+        ],
+        "moves": [
+            {
+                "name": "harden",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "106"
+            },
+            {
+                "name": "harden",
+                "level_learned_at": 7,
+                "move_learn_method": "level-up",
+                "move_id": "106"
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "base_experience": 101,
+        "pokemon_id": 132,
+        "name": "ditto",
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "special-attack": 48,
+        "special-defense": 48,
+        "speed": 48,
+        "types": [
+            "normal"
+        ],
+        "moves": [
+            {
+                "name": "transform",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "144"
+            }
+        ]
+    }
+]

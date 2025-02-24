@@ -1,0 +1,234 @@
+[
+    {
+        "base_experience": 59,
+        "pokemon_id": 116,
+        "name": "horsea",
+        "hp": 30,
+        "attack": 40,
+        "defense": 70,
+        "special-attack": 70,
+        "special-defense": 25,
+        "speed": 60,
+        "types": [
+            "water"
+        ],
+        "moves": [
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "38"
+            },
+            {
+                "name": "leer",
+                "level_learned_at": 15,
+                "move_learn_method": "level-up",
+                "move_id": "43"
+            },
+            {
+                "name": "disable",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "50"
+            },
+            {
+                "name": "water-gun",
+                "level_learned_at": 22,
+                "move_learn_method": "level-up",
+                "move_id": "55"
+            },
+            {
+                "name": "hydro-pump",
+                "level_learned_at": 43,
+                "move_learn_method": "level-up",
+                "move_id": "56"
+            },
+            {
+                "name": "surf",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "57"
+            },
+            {
+                "name": "ice-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "58"
+            },
+            {
+                "name": "blizzard",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "59"
+            },
+            {
+                "name": "aurora-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "62"
+            },
+            {
+                "name": "dragon-rage",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "82"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "agility",
+                "level_learned_at": 36,
+                "move_learn_method": "level-up",
+                "move_id": "97"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "smokescreen",
+                "level_learned_at": 8,
+                "move_learn_method": "level-up",
+                "move_id": "108"
+            },
+            {
+                "name": "waterfall",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "127"
+            },
+            {
+                "name": "bubble",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "145"
+            },
+            {
+                "name": "splash",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "150"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "flail",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "175"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "octazooka",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "190"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "dragon-breath",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "225"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "twister",
+                "level_learned_at": 29,
+                "move_learn_method": "level-up",
+                "move_id": "239"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "240"
+            },
+            {
+                "name": "hail",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "258"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "dive",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "291"
+            },
+            {
+                "name": "dragon-dance",
+                "level_learned_at": 50,
+                "move_learn_method": "level-up",
+                "move_id": "349"
+            },
+            {
+                "name": "water-pulse",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "352"
+            }
+        ]
+    }
+]

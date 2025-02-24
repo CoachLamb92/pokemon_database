@@ -1,0 +1,205 @@
+[
+    {
+        "base_experience": 221,
+        "pokemon_id": 71,
+        "name": "victreebel",
+        "hp": 80,
+        "attack": 105,
+        "defense": 65,
+        "special-attack": 100,
+        "special-defense": 70,
+        "speed": 70,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "moves": [
+            {
+                "name": "swords-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "14"
+            },
+            {
+                "name": "cut",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "15"
+            },
+            {
+                "name": "vine-whip",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "22"
+            },
+            {
+                "name": "body-slam",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "34"
+            },
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "38"
+            },
+            {
+                "name": "hyper-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "63"
+            },
+            {
+                "name": "razor-leaf",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "75"
+            },
+            {
+                "name": "solar-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "76"
+            },
+            {
+                "name": "sleep-powder",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "79"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "flash",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "148"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "thief",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "168"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "sludge-bomb",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "188"
+            },
+            {
+                "name": "giga-drain",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "202"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "sweet-scent",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "230"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "sunny-day",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "241"
+            },
+            {
+                "name": "stockpile",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "254"
+            },
+            {
+                "name": "spit-up",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "255"
+            },
+            {
+                "name": "swallow",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "256"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "bullet-seed",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "331"
+            }
+        ]
+    }
+]

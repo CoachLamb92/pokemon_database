@@ -1,0 +1,330 @@
+[
+    {
+        "base_experience": 63,
+        "pokemon_id": 7,
+        "name": "squirtle",
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "special-attack": 50,
+        "special-defense": 64,
+        "speed": 43,
+        "types": [
+            "water"
+        ],
+        "moves": [
+            {
+                "name": "mega-punch",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "5"
+            },
+            {
+                "name": "mega-kick",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "25"
+            },
+            {
+                "name": "tackle",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "33"
+            },
+            {
+                "name": "body-slam",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "34"
+            },
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "38"
+            },
+            {
+                "name": "tail-whip",
+                "level_learned_at": 4,
+                "move_learn_method": "level-up",
+                "move_id": "39"
+            },
+            {
+                "name": "bite",
+                "level_learned_at": 18,
+                "move_learn_method": "level-up",
+                "move_id": "44"
+            },
+            {
+                "name": "mist",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "54"
+            },
+            {
+                "name": "water-gun",
+                "level_learned_at": 13,
+                "move_learn_method": "level-up",
+                "move_id": "55"
+            },
+            {
+                "name": "hydro-pump",
+                "level_learned_at": 47,
+                "move_learn_method": "level-up",
+                "move_id": "56"
+            },
+            {
+                "name": "surf",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "57"
+            },
+            {
+                "name": "ice-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "58"
+            },
+            {
+                "name": "blizzard",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "59"
+            },
+            {
+                "name": "counter",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "68"
+            },
+            {
+                "name": "seismic-toss",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "69"
+            },
+            {
+                "name": "strength",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "70"
+            },
+            {
+                "name": "dig",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "91"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "withdraw",
+                "level_learned_at": 10,
+                "move_learn_method": "level-up",
+                "move_id": "110"
+            },
+            {
+                "name": "haze",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "114"
+            },
+            {
+                "name": "waterfall",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "127"
+            },
+            {
+                "name": "skull-bash",
+                "level_learned_at": 40,
+                "move_learn_method": "level-up",
+                "move_id": "130"
+            },
+            {
+                "name": "bubble",
+                "level_learned_at": 7,
+                "move_learn_method": "level-up",
+                "move_id": "145"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "flail",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "175"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 28,
+                "move_learn_method": "level-up",
+                "move_id": "182"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "foresight",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "193"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "rapid-spin",
+                "level_learned_at": 23,
+                "move_learn_method": "level-up",
+                "move_id": "229"
+            },
+            {
+                "name": "iron-tail",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "231"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 33,
+                "move_learn_method": "level-up",
+                "move_id": "240"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "240"
+            },
+            {
+                "name": "mirror-coat",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "243"
+            },
+            {
+                "name": "rock-smash",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "249"
+            },
+            {
+                "name": "hail",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "258"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "focus-punch",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "264"
+            },
+            {
+                "name": "follow-me",
+                "level_learned_at": 0,
+                "move_learn_method": "level-up",
+                "move_id": "266"
+            },
+            {
+                "name": "brick-break",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "280"
+            },
+            {
+                "name": "yawn",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "281"
+            },
+            {
+                "name": "refresh",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "287"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "dive",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "291"
+            },
+            {
+                "name": "mud-sport",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "300"
+            },
+            {
+                "name": "water-pulse",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "352"
+            }
+        ]
+    }
+]

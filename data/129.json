@@ -1,0 +1,36 @@
+[
+    {
+        "base_experience": 40,
+        "pokemon_id": 129,
+        "name": "magikarp",
+        "hp": 20,
+        "attack": 10,
+        "defense": 55,
+        "special-attack": 15,
+        "special-defense": 20,
+        "speed": 80,
+        "types": [
+            "water"
+        ],
+        "moves": [
+            {
+                "name": "tackle",
+                "level_learned_at": 15,
+                "move_learn_method": "level-up",
+                "move_id": "33"
+            },
+            {
+                "name": "splash",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "150"
+            },
+            {
+                "name": "flail",
+                "level_learned_at": 30,
+                "move_learn_method": "level-up",
+                "move_id": "175"
+            }
+        ]
+    }
+]

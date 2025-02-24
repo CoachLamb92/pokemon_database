@@ -1,0 +1,283 @@
+[
+    {
+        "base_experience": 62,
+        "pokemon_id": 92,
+        "name": "gastly",
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "special-attack": 100,
+        "special-defense": 35,
+        "speed": 80,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "moves": [
+            {
+                "name": "thunderbolt",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "85"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "psychic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "94"
+            },
+            {
+                "name": "hypnosis",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "95"
+            },
+            {
+                "name": "night-shade",
+                "level_learned_at": 16,
+                "move_learn_method": "level-up",
+                "move_id": "101"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "confuse-ray",
+                "level_learned_at": 21,
+                "move_learn_method": "level-up",
+                "move_id": "109"
+            },
+            {
+                "name": "haze",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "114"
+            },
+            {
+                "name": "lick",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "122"
+            },
+            {
+                "name": "dream-eater",
+                "level_learned_at": 28,
+                "move_learn_method": "level-up",
+                "move_id": "138"
+            },
+            {
+                "name": "dream-eater",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "138"
+            },
+            {
+                "name": "psywave",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "149"
+            },
+            {
+                "name": "explosion",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "153"
+            },
+            {
+                "name": "explosion",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "153"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "thief",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "168"
+            },
+            {
+                "name": "nightmare",
+                "level_learned_at": 41,
+                "move_learn_method": "level-up",
+                "move_id": "171"
+            },
+            {
+                "name": "curse",
+                "level_learned_at": 13,
+                "move_learn_method": "level-up",
+                "move_id": "174"
+            },
+            {
+                "name": "spite",
+                "level_learned_at": 8,
+                "move_learn_method": "level-up",
+                "move_id": "180"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "sludge-bomb",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "188"
+            },
+            {
+                "name": "destiny-bond",
+                "level_learned_at": 33,
+                "move_learn_method": "level-up",
+                "move_id": "194"
+            },
+            {
+                "name": "perish-song",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "195"
+            },
+            {
+                "name": "giga-drain",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "202"
+            },
+            {
+                "name": "mean-look",
+                "level_learned_at": 48,
+                "move_learn_method": "level-up",
+                "move_id": "212"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "240"
+            },
+            {
+                "name": "sunny-day",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "241"
+            },
+            {
+                "name": "shadow-ball",
+                "level_learned_at": 36,
+                "move_learn_method": "level-up",
+                "move_id": "247"
+            },
+            {
+                "name": "shadow-ball",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "247"
+            },
+            {
+                "name": "torment",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "259"
+            },
+            {
+                "name": "will-o-wisp",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "261"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "taunt",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "269"
+            },
+            {
+                "name": "skill-swap",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "285"
+            },
+            {
+                "name": "grudge",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "288"
+            },
+            {
+                "name": "snatch",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "289"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "astonish",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "310"
+            }
+        ]
+    }
+]

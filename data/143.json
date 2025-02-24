@@ -1,0 +1,384 @@
+[
+    {
+        "base_experience": 189,
+        "pokemon_id": 143,
+        "name": "snorlax",
+        "hp": 160,
+        "attack": 110,
+        "defense": 65,
+        "special-attack": 65,
+        "special-defense": 110,
+        "speed": 30,
+        "types": [
+            "normal"
+        ],
+        "moves": [
+            {
+                "name": "mega-punch",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "5"
+            },
+            {
+                "name": "mega-kick",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "25"
+            },
+            {
+                "name": "headbutt",
+                "level_learned_at": 17,
+                "move_learn_method": "level-up",
+                "move_id": "29"
+            },
+            {
+                "name": "tackle",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "33"
+            },
+            {
+                "name": "body-slam",
+                "level_learned_at": 33,
+                "move_learn_method": "level-up",
+                "move_id": "34"
+            },
+            {
+                "name": "body-slam",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "34"
+            },
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "38"
+            },
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "38"
+            },
+            {
+                "name": "flamethrower",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "53"
+            },
+            {
+                "name": "surf",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "57"
+            },
+            {
+                "name": "ice-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "58"
+            },
+            {
+                "name": "blizzard",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "59"
+            },
+            {
+                "name": "hyper-beam",
+                "level_learned_at": 53,
+                "move_learn_method": "level-up",
+                "move_id": "63"
+            },
+            {
+                "name": "hyper-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "63"
+            },
+            {
+                "name": "counter",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "68"
+            },
+            {
+                "name": "seismic-toss",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "69"
+            },
+            {
+                "name": "strength",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "70"
+            },
+            {
+                "name": "solar-beam",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "76"
+            },
+            {
+                "name": "thunderbolt",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "85"
+            },
+            {
+                "name": "thunder",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "87"
+            },
+            {
+                "name": "earthquake",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "89"
+            },
+            {
+                "name": "fissure",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "90"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "psychic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "94"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "defense-curl",
+                "level_learned_at": 9,
+                "move_learn_method": "level-up",
+                "move_id": "111"
+            },
+            {
+                "name": "metronome",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "118"
+            },
+            {
+                "name": "lick",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "122"
+            },
+            {
+                "name": "fire-blast",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "126"
+            },
+            {
+                "name": "amnesia",
+                "level_learned_at": 5,
+                "move_learn_method": "level-up",
+                "move_id": "133"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 25,
+                "move_learn_method": "level-up",
+                "move_id": "156"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "rock-slide",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "157"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "164"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "snore",
+                "level_learned_at": 29,
+                "move_learn_method": "level-up",
+                "move_id": "173"
+            },
+            {
+                "name": "curse",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "174"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "belly-drum",
+                "level_learned_at": 13,
+                "move_learn_method": "level-up",
+                "move_id": "187"
+            },
+            {
+                "name": "sandstorm",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "201"
+            },
+            {
+                "name": "charm",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "204"
+            },
+            {
+                "name": "rollout",
+                "level_learned_at": 49,
+                "move_learn_method": "level-up",
+                "move_id": "205"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "sleep-talk",
+                "level_learned_at": 37,
+                "move_learn_method": "level-up",
+                "move_id": "214"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "240"
+            },
+            {
+                "name": "sunny-day",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "241"
+            },
+            {
+                "name": "shadow-ball",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "247"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "focus-punch",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "264"
+            },
+            {
+                "name": "brick-break",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "280"
+            },
+            {
+                "name": "yawn",
+                "level_learned_at": 21,
+                "move_learn_method": "level-up",
+                "move_id": "281"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "rock-tomb",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "317"
+            },
+            {
+                "name": "block",
+                "level_learned_at": 41,
+                "move_learn_method": "level-up",
+                "move_id": "335"
+            },
+            {
+                "name": "covet",
+                "level_learned_at": 45,
+                "move_learn_method": "level-up",
+                "move_id": "343"
+            },
+            {
+                "name": "shock-wave",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "351"
+            },
+            {
+                "name": "water-pulse",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "352"
+            }
+        ]
+    }
+]

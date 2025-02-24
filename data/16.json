@@ -1,0 +1,217 @@
+[
+    {
+        "base_experience": 50,
+        "pokemon_id": 16,
+        "name": "pidgey",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "special-attack": 35,
+        "special-defense": 35,
+        "speed": 56,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "moves": [
+            {
+                "name": "gust",
+                "level_learned_at": 9,
+                "move_learn_method": "level-up",
+                "move_id": "16"
+            },
+            {
+                "name": "wing-attack",
+                "level_learned_at": 25,
+                "move_learn_method": "level-up",
+                "move_id": "17"
+            },
+            {
+                "name": "whirlwind",
+                "level_learned_at": 19,
+                "move_learn_method": "level-up",
+                "move_id": "18"
+            },
+            {
+                "name": "fly",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "19"
+            },
+            {
+                "name": "sand-attack",
+                "level_learned_at": 5,
+                "move_learn_method": "level-up",
+                "move_id": "28"
+            },
+            {
+                "name": "tackle",
+                "level_learned_at": 1,
+                "move_learn_method": "level-up",
+                "move_id": "33"
+            },
+            {
+                "name": "double-edge",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "38"
+            },
+            {
+                "name": "toxic",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "92"
+            },
+            {
+                "name": "agility",
+                "level_learned_at": 39,
+                "move_learn_method": "level-up",
+                "move_id": "97"
+            },
+            {
+                "name": "quick-attack",
+                "level_learned_at": 13,
+                "move_learn_method": "level-up",
+                "move_id": "98"
+            },
+            {
+                "name": "mimic",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "102"
+            },
+            {
+                "name": "double-team",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "104"
+            },
+            {
+                "name": "mirror-move",
+                "level_learned_at": 47,
+                "move_learn_method": "level-up",
+                "move_id": "119"
+            },
+            {
+                "name": "rest",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "156"
+            },
+            {
+                "name": "substitute",
+                "level_learned_at": 0,
+                "move_learn_method": "tutor",
+                "move_id": "164"
+            },
+            {
+                "name": "thief",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "168"
+            },
+            {
+                "name": "protect",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "182"
+            },
+            {
+                "name": "feint-attack",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "185"
+            },
+            {
+                "name": "foresight",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "193"
+            },
+            {
+                "name": "steel-wing",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "211"
+            },
+            {
+                "name": "steel-wing",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "211"
+            },
+            {
+                "name": "attract",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "213"
+            },
+            {
+                "name": "return",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "216"
+            },
+            {
+                "name": "frustration",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "218"
+            },
+            {
+                "name": "pursuit",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "228"
+            },
+            {
+                "name": "hidden-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "237"
+            },
+            {
+                "name": "rain-dance",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "240"
+            },
+            {
+                "name": "sunny-day",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "241"
+            },
+            {
+                "name": "facade",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "263"
+            },
+            {
+                "name": "secret-power",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "290"
+            },
+            {
+                "name": "feather-dance",
+                "level_learned_at": 31,
+                "move_learn_method": "level-up",
+                "move_id": "297"
+            },
+            {
+                "name": "air-cutter",
+                "level_learned_at": 0,
+                "move_learn_method": "egg",
+                "move_id": "314"
+            },
+            {
+                "name": "aerial-ace",
+                "level_learned_at": 0,
+                "move_learn_method": "machine",
+                "move_id": "332"
+            }
+        ]
+    }
+]
