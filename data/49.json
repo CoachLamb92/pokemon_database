@@ -1,241 +1,205 @@
-[
-    {
-        "base_experience": 158,
-        "pokemon_id": 49,
-        "name": "venomoth",
-        "hp": 70,
-        "attack": 65,
-        "defense": 60,
-        "special-attack": 90,
-        "special-defense": 75,
-        "speed": 90,
-        "types": [
-            "bug",
-            "poison"
-        ],
-        "moves": [
-            {
-                "name": "gust",
-                "level_learned_at": 31,
-                "move_learn_method": "level-up",
-                "move_id": "16"
-            },
-            {
-                "name": "tackle",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "33"
-            },
-            {
-                "name": "double-edge",
-                "level_learned_at": 0,
-                "move_learn_method": "tutor",
-                "move_id": "38"
-            },
-            {
-                "name": "supersonic",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "48"
-            },
-            {
-                "name": "supersonic",
-                "level_learned_at": 9,
-                "move_learn_method": "level-up",
-                "move_id": "48"
-            },
-            {
-                "name": "disable",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "50"
-            },
-            {
-                "name": "psybeam",
-                "level_learned_at": 36,
-                "move_learn_method": "level-up",
-                "move_id": "60"
-            },
-            {
-                "name": "hyper-beam",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "63"
-            },
-            {
-                "name": "solar-beam",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "76"
-            },
-            {
-                "name": "poison-powder",
-                "level_learned_at": 20,
-                "move_learn_method": "level-up",
-                "move_id": "77"
-            },
-            {
-                "name": "stun-spore",
-                "level_learned_at": 28,
-                "move_learn_method": "level-up",
-                "move_id": "78"
-            },
-            {
-                "name": "sleep-powder",
-                "level_learned_at": 42,
-                "move_learn_method": "level-up",
-                "move_id": "79"
-            },
-            {
-                "name": "toxic",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "92"
-            },
-            {
-                "name": "confusion",
-                "level_learned_at": 17,
-                "move_learn_method": "level-up",
-                "move_id": "93"
-            },
-            {
-                "name": "psychic",
-                "level_learned_at": 52,
-                "move_learn_method": "level-up",
-                "move_id": "94"
-            },
-            {
-                "name": "psychic",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "94"
-            },
-            {
-                "name": "mimic",
-                "level_learned_at": 0,
-                "move_learn_method": "tutor",
-                "move_id": "102"
-            },
-            {
-                "name": "double-team",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "104"
-            },
-            {
-                "name": "leech-life",
-                "level_learned_at": 25,
-                "move_learn_method": "level-up",
-                "move_id": "141"
-            },
-            {
-                "name": "flash",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "148"
-            },
-            {
-                "name": "rest",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "156"
-            },
-            {
-                "name": "substitute",
-                "level_learned_at": 0,
-                "move_learn_method": "tutor",
-                "move_id": "164"
-            },
-            {
-                "name": "thief",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "168"
-            },
-            {
-                "name": "protect",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "182"
-            },
-            {
-                "name": "sludge-bomb",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "188"
-            },
-            {
-                "name": "foresight",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "193"
-            },
-            {
-                "name": "giga-drain",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "202"
-            },
-            {
-                "name": "attract",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "213"
-            },
-            {
-                "name": "return",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "216"
-            },
-            {
-                "name": "frustration",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "218"
-            },
-            {
-                "name": "hidden-power",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "237"
-            },
-            {
-                "name": "sunny-day",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "241"
-            },
-            {
-                "name": "facade",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "263"
-            },
-            {
-                "name": "skill-swap",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "285"
-            },
-            {
-                "name": "secret-power",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "290"
-            },
-            {
-                "name": "silver-wind",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "318"
-            },
-            {
-                "name": "aerial-ace",
-                "level_learned_at": 0,
-                "move_learn_method": "machine",
-                "move_id": "332"
-            }
-        ]
-    }
-]
+{
+    "base_experience": 158,
+    "pokemon_id": 49,
+    "name": "venomoth",
+    "abilities": [
+        147
+    ],
+    "hp": 70,
+    "attack": 65,
+    "defense": 60,
+    "special-attack": 90,
+    "special-defense": 75,
+    "speed": 90,
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "moves": [
+        {
+            "level_learned_at": 31,
+            "move_learn_method": "level-up",
+            "move_id": "16"
+        },
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "33"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "tutor",
+            "move_id": "38"
+        },
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "48"
+        },
+        {
+            "level_learned_at": 9,
+            "move_learn_method": "level-up",
+            "move_id": "48"
+        },
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "50"
+        },
+        {
+            "level_learned_at": 36,
+            "move_learn_method": "level-up",
+            "move_id": "60"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "63"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "76"
+        },
+        {
+            "level_learned_at": 20,
+            "move_learn_method": "level-up",
+            "move_id": "77"
+        },
+        {
+            "level_learned_at": 28,
+            "move_learn_method": "level-up",
+            "move_id": "78"
+        },
+        {
+            "level_learned_at": 42,
+            "move_learn_method": "level-up",
+            "move_id": "79"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "92"
+        },
+        {
+            "level_learned_at": 17,
+            "move_learn_method": "level-up",
+            "move_id": "93"
+        },
+        {
+            "level_learned_at": 52,
+            "move_learn_method": "level-up",
+            "move_id": "94"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "94"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "tutor",
+            "move_id": "102"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "104"
+        },
+        {
+            "level_learned_at": 25,
+            "move_learn_method": "level-up",
+            "move_id": "141"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "148"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "156"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "tutor",
+            "move_id": "164"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "168"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "182"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "188"
+        },
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "193"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "202"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "213"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "216"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "218"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "237"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "241"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "263"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "285"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "290"
+        },
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "318"
+        },
+        {
+            "level_learned_at": 0,
+            "move_learn_method": "machine",
+            "move_id": "332"
+        }
+    ]
+}

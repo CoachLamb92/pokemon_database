@@ -5,7 +5,7 @@ db = connect_to_db()
 
 for i in range(1, 152):
     with open (f"data/{i}.json", "r") as f:
-        poke_dict = json.load(f)[0]
+        poke_dict = json.load(f)
     
     value_tuple = (poke_dict['pokemon_id'], poke_dict['name'], poke_dict['base_experience'], poke_dict['types'][0], poke_dict['types'][1] if len(poke_dict['types']) == 2 else 'NULL', poke_dict['hp'], poke_dict['attack'], poke_dict['defense'], poke_dict['special-attack'], poke_dict['special-defense'], poke_dict['speed'])
     

@@ -1,31 +1,30 @@
-[
-    {
-        "base_experience": 39,
-        "pokemon_id": 13,
-        "name": "weedle",
-        "hp": 40,
-        "attack": 35,
-        "defense": 30,
-        "special-attack": 20,
-        "special-defense": 20,
-        "speed": 50,
-        "types": [
-            "bug",
-            "poison"
-        ],
-        "moves": [
-            {
-                "name": "poison-sting",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "40"
-            },
-            {
-                "name": "string-shot",
-                "level_learned_at": 1,
-                "move_learn_method": "level-up",
-                "move_id": "81"
-            }
-        ]
-    }
-]
+{
+    "base_experience": 39,
+    "pokemon_id": 13,
+    "name": "weedle",
+    "abilities": [
+        50
+    ],
+    "hp": 40,
+    "attack": 35,
+    "defense": 30,
+    "special-attack": 20,
+    "special-defense": 20,
+    "speed": 50,
+    "types": [
+        "bug",
+        "poison"
+    ],
+    "moves": [
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "40"
+        },
+        {
+            "level_learned_at": 1,
+            "move_learn_method": "level-up",
+            "move_id": "81"
+        }
+    ]
+}
