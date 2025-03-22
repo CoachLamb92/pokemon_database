@@ -18,27 +18,6 @@ CREATE TABLE IF NOT EXISTS pokemon
     speed_stat INT
 );
 
-DROP TABLE IF EXISTS pokemon_abilities;
-CREATE TABLE IF NOT EXISTS pokemon_abilities
-(
-    pokemon_id INT,
-    ability_id INT
-);
-
-ALTER TABLE pokemon_abilities
-    ADD FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id) ON DELETE CASCADE;
-
-DROP TABLE IF EXISTS abilities;
-CREATE TABLE IF NOT EXISTS abilities
-(
-    ability_id INT PRIMARY KEY,
-    ability_name VARCHAR(20),
-    ability_description VARCHAR(100)
-);
-
-ALTER TABLE pokemon_abilities
-    ADD FOREIGN KEY (ability_id) REFERENCES abilities(ability_id) ON DELETE CASCADE;
-
 DROP TABLE IF EXISTS pokemon_moves;
 CREATE TABLE IF NOT EXISTS pokemon_moves
 (
@@ -47,9 +26,6 @@ CREATE TABLE IF NOT EXISTS pokemon_moves
     level_learnt INT,
     learn_method VARCHAR(50)
 );
-
-ALTER TABLE pokemon_moves
-    ADD FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id) ON DELETE CASCADE;
 
 DROP TABLE IF EXISTS moves;
 CREATE TABLE IF NOT EXISTS moves
@@ -63,6 +39,9 @@ CREATE TABLE IF NOT EXISTS moves
     power INT, 
     category VARCHAR(10)
 );
+
+ALTER TABLE pokemon_moves
+    ADD FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id) ON DELETE CASCADE;
 
 ALTER TABLE moves
     ADD FOREIGN KEY (move_id) REFERENCES moves(move_id) ON DELETE CASCADE;

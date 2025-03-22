@@ -10,11 +10,11 @@ all_gen_1_moves = db.run("SELECT DISTINCT move_id FROM pokemon_moves ORDER BY mo
 moves = [move[0] for move in all_gen_1_moves]
 
 root_url = "https://pokeapi.co/api/v2/"
-pokemon_keyword = "move/"
+move_keyword = "move/"
 
 for move_id in moves:
     if [move_id] not in db.run("SELECT DISTINCT move_id FROM moves"):
-        move = requests.get(root_url + pokemon_keyword + str(move_id)).json()
+        move = requests.get(root_url + move_keyword + str(move_id)).json()
 
         if move["power"] == None: move["power"] = -1
         if move["accuracy"] == None: move["accuracy"] = -1
